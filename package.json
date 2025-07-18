@@ -1,0 +1,23 @@
+{
+  "name": "first-lecture",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikshant94gangawat/Namastey-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikshant94gangawat/Namastey-React/issues"
+  },
+  "homepage": "https://github.com/dikshant94gangawat/Namastey-React#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
