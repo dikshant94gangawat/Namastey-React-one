@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import myimage from "./images/logonew.png";
+
 
 const heading = React.createElement("h1", {id:"heading"}, "Hello world from react");
-const img_path = "https://images.app.goo.gl/6jpUFVNdJPxDChxN6";
+
 const Header=()=>{
     
     return(
         <div className='header'>
             <div>
-                <img src={img_path} alt="logo" className='logo'/>
+                <img src={myimage} className='logo'/>
                 <ul>
                     <li>Home</li>
                     <li>About</li>
